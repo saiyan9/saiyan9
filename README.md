@@ -1,6 +1,6 @@
 - <h1 align="center">Hi 👋, I'm Simone Cook</h1>
 - 👀 I’m interested in becoming a data analyst. I want to build my experience and profile, to one day become a SQL Developer. I am passionate about programming, analysis, and working with data. I'm excited to be taking the steps to accomplish my data-centered career goals. 
-- 🌱 I’m currently learning SQL, Tableau and Python.
+- 🌱 I’m currently learning SQL, Tableau and Python. 
 - 💞️ I’m looking to collaborate on any projects to help build my Github portfolio.
 - ⚡ Fun fact **I love playing trivia with my family and I hope to create a trivia app with a database of unique trivia questions.**
 - 📫 How to reach me:  **iamsimonecook@gmail.com**
