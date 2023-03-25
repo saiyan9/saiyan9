@@ -6,14 +6,16 @@
       * I'm excited to be taking the steps to accomplish my data-centered dreams.
     * 🌱 I'm currently learning SQL, Tableau, and Python.
     * 💞️ I'm looking to collaborate on any data projects to continue building my GitHub profile.
-    * ⚡ Fun fact **I love playing trivia with my family and I hope to create a trivia app, with a database of unique trivia questions.**
-    * 📫 How to reach me: **iamsimonecook@gmail.com**
+    * ⚡ Fun fact: I love playing trivia with my family! 
+      *  I hope to create a trivia app, with a database of unique trivia questions
+    * 📫 How to reach me: iamsimonecook@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/simoneyyy___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="simoneyyy___" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/cook-simone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cook-simone" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/saiyan92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="saiyan92" height="30" width="40" /></a>
+<a href="https://public.tableau.com/app/profile/simone.cook" target="blank"><img align="center" src="https://www.svgrepo.com/show/354427/tableau.svg" alt="saiyan92" height="40" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
