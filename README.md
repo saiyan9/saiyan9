@@ -1,4 +1,4 @@
-- <h1 align="center">Hi 👋, I'm Simone Cook</h1>
+<h1 align="center">Hi 👋, I'm Simone Cook</h1>
 - 👀 I’m interested in becoming a data analyst. I want to build my experience and profile, to one day become a Database Developer. I am passionate about programming, analysis, and working with data. I'm excited to be taking the steps to accomplish my data-centered career goals. 
 - 🌱 I’m currently learning SQL, Tableau and Python. 
 - 💞️ I’m looking to collaborate on any projects to help build my Github portfolio.
